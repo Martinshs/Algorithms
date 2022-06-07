@@ -10,7 +10,7 @@ partition and then re-partitions the input according to which of these centroids
 
 After performing this iterative process, we can visualize how Floyd's algorithm converges to obtain an equispaced distribution of convex cells. 
 
-![Floyd iterations](/Floyd_Algorithm/Lloyd_algorithm_P350_S5_Dim2x2_I200_N8_frame1.gif)
+![Floyd iterations](/Floyd_Algorithm/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif)
 
 In the code you can find diferents functions, using to compute the Voronoid diagram, to compute the center of mass, and to execute al the algoritm. In the 
 last part of the code you can find the part of "Setting", in this place you can change the numeber of iteration, the number of cell that you want etc.. 
