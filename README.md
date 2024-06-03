@@ -1,7 +1,7 @@
 # Algorithms
 Some different algorithms
 
-## Floyd's Algorithm 
+## Lloyd's Algorithm 
 
 In this repository, we show a code for Lloyd's algorithm. Also called Voronoi iteration, this is an iterative algorithm finding for equispaced convex
 cells in Euclidean space. Floyd's algorithm finds the distribution of the cells, computing their center of mass and iteratively applying the Voronoi tessellation.
